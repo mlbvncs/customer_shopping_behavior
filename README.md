@@ -1,14 +1,14 @@
 # English
-## Business Problem:
+### Business Problem:
 A leading retail company wants to better understand its customers' purchasing behavior to increase sales, customer satisfaction, and long-term loyalty. The management team has examined changes in purchasing patterns across different demographic profiles, product categories, and sales channels (online vs. offline). They are particularly interested in discovering which factors—such as discounts, reviews, seasonality, or payment options—are driving consumer decisions and repeat purchases. You are tasked with analyzing the company's consumer behavior dataset to answer the following central business question: "How can a company leverage consumer purchase data to identify trends, improve customer engagement, and enhance marketing and product strategies?"
-## Deliverables:
+### Deliverables:
 - Data Preparation and Modeling (Python): Clean and transform the raw dataset for analysis;
 - Data Analysis (SQL): Organize the data into a structured format, simulate business transactions, and execute queries to extract insights into customer segments, loyalty, and purchase drivers; - Visualization and Insights (Power BI): Build an interactive dashboard that highlights important patterns and trends, enabling stakeholders to make data-driven decisions;
 - Reporting and Presentation: Write a clear project report summarizing your key findings and business recommendations. Prepare a presentation that visually communicates the insights and actionable recommendations to stakeholders.
 # Português (Brasil)
-## Problema de Negócio: 
+### Problema de Negócio: 
 Uma empresa líder no setor de varejo deseja entender melhor o comportamento de compra de seus clientes para aumentar as vendas, a satisfação do consumidor e a fidelidade a longo prazo. A equipe de gestão observou mudanças nos padrões de compra em diferentes perfis demográficos, categorias de produtos e canais de vendas (online vs. offline).Eles estão particularmente interessados em descobrir quais fatores — como descontos, avaliações, sazonalidade ou preferências de pagamento — impulsionam as decisões dos consumidores e as compras recorrentes. Você tem a tarefa de analisar o conjunto de dados de comportamento do consumidor da empresa para responder à seguinte pergunta de negócio central: "Como a empresa pode aproveitar os dados de compras dos consumidores para identificar tendências, melhorar o engajamento do cliente e otimizar as estratégias de marketing e de produtos?".
-## Entregáveis:
+### Entregáveis:
 - Preparação e Modelagem de Dados (Python): Limpar e transformar o conjunto de dados brutos para análise;
 - Análise de Dados (SQL): Organizar os dados em um formato estruturado, simular transações comerciais e executar consultas para extrair insights sobre segmentos de clientes, fidelidade e motivadores de compra;
 - Visualização e Insights (Power BI): Construir um dashboard interativo que destaque padrões e tendências importantes, permitindo que as partes interessadas tomem decisões baseadas em dados;
