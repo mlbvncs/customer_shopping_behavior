@@ -11,7 +11,7 @@ A leading retail company wants to better understand its customers' purchasing be
 - 3. data/processed;
 - 4. sql;
 - 5. powerbi;
-- 6. analysis;
+- 6. analysis.
 # Português (Brasil)
 ### Problema de Negócio: 
 Uma empresa líder no setor de varejo deseja entender melhor o comportamento de compra de seus clientes para aumentar as vendas, a satisfação do consumidor e a fidelidade a longo prazo. A equipe de gestão observou mudanças nos padrões de compra em diferentes perfis demográficos, categorias de produtos e canais de vendas (online vs. offline).Eles estão particularmente interessados em descobrir quais fatores — como descontos, avaliações, sazonalidade ou preferências de pagamento — impulsionam as decisões dos consumidores e as compras recorrentes. Você tem a tarefa de analisar o conjunto de dados de comportamento do consumidor da empresa para responder à seguinte pergunta de negócio central: "Como a empresa pode aproveitar os dados de compras dos consumidores para identificar tendências, melhorar o engajamento do cliente e otimizar as estratégias de marketing e de produtos?".
@@ -26,4 +26,4 @@ Uma empresa líder no setor de varejo deseja entender melhor o comportamento de 
 - 3. data/processed;
 - 4. sql;
 - 5. powerbi;
-- 6. analysis;
+- 6. analysis.
